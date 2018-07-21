@@ -1,0 +1,57 @@
+{
+   "packages":[
+      {
+         "name":"attiny10core",
+         "maintainer":"Technoblogy",
+         "websiteURL":"http://www.technoblogy.com",
+         "email":"support@technoblogy.com",
+         "help":{
+            "online":"https://github.com/technoblogy/attiny10core"
+         },
+         "platforms":[
+         {
+          "architecture": "avr",
+          "name": "ATtiny10core",
+          "category": "Technoblogy",
+          "version": "1.1.0",
+          "url": "https://github.com/technoblogy/arduino-board-index/boards/attiny10core-1.1.0.zip",
+          "archiveFileName": "attiny10core-1.1.0.zip",
+          "checksum": "SHA-256:f7f6f2107b31daed2bfca27e0fadda7a4c85aa1bfcfeef68469d953d403f8f8b",
+          "size": "4623",
+          "help": {
+            "online": "https://github.com/technoblogy/attiny10core/issues"
+          },
+          "boards": [
+            {
+              "name": "ATTiny4"
+            },
+            {
+              "name": "ATTiny5"
+            },
+            {
+              "name": "ATTiny9"
+            },
+            {
+              "name": "ATTiny10"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.9.2-atmel3.5.4-arduino2"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.3.0-arduino9"
+            }
+          ]
+        }
+
+         ],
+         "tools":[]
+      }
+   ]
+}
+
