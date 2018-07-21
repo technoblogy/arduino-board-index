@@ -14,7 +14,7 @@
           "architecture": "avr",
           "version": "1.1.0",
           "category": "attiny",
-          "url": "https://github.com/technoblogy/arduino-board-index/boards/attiny10core-1.1.0.zip",
+          "url": "https://raw.githubusercontent.com/technoblogy/arduino-board-index/boards/master/attiny10core-1.1.0.zip",
           "archiveFileName": "attiny10core-1.1.0.zip",
           "checksum": "SHA-256:f7f6f2107b31daed2bfca27e0fadda7a4c85aa1bfcfeef68469d953d403f8f8b",
           "size": "4623",
