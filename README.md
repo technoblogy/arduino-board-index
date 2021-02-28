@@ -1,2 +1,2 @@
 # arduino-board-index
-Technoblogy's package lists for the Arduino Board Manager.
+Technoblogy's package list for the Arduino Board Manager.
