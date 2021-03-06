@@ -54,8 +54,8 @@
           },
           "url": "https://github.com/technoblogy/attiny10core/archive/2.0.0.tar.gz",
           "archiveFileName": "ATtiny10Core-2.0.0.tar.gz",
-          "checksum": "SHA-256:56ff8b99d2af03da72e6bc08cccc02c3a6f183a510c2b851189853a4c378f02c",
-          "size": "3878",
+          "checksum": "SHA-256:59da51cca7f4f9db1867308daded99de174bc8380e6bb6a7ae0935f7506bbc7f",
+          "size": "7104",
           "boards": [
             {
               "name": "ATtiny10/9/5/4"
